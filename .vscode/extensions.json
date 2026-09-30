@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "njpwerner.autodocstring",
+        
+        //formatter
+        "charliermarsh.ruff",
+        
+        //linters
+        "ms-python.mypy-type-checker",
+        "nwgh.bandit"
+    ]
+}
